@@ -12,5 +12,7 @@ skills and problem-solving abilities tohelp drive growth and success.
 
 ## 🔗 Links Where Can You Find Me
 
+<p align="center">
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ahmed-hany-portfolio.netlify.app/)
 [![Resume](https://img.shields.io/badge/my_portfolio-FF3850?style=for-the-badge&logo=linkfire&logoColor=white)](https://drive.google.com/file/d/18CgccxuhwcXBif9XStikgt__0pIsJji3/view?usp=sharing)
+</p>
