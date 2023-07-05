@@ -10,6 +10,3 @@ skills and problem-solving abilities tohelp drive growth and success.
 
 🚀 In depth , I'm a skilled 💻 Frontend Web developer with experience in <b>TypeScript</b> and <b>JavaScript</b>, and expertise in frameworks like <b>React</b>, <b>Next.js</b>. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
