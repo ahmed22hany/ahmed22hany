@@ -19,7 +19,7 @@ skills and problem-solving abilities tohelp drive growth and success.
 
 ## Toolset
 
-![React.Js](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-48.png)||
+![React.Js](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-48.png) ||
 ![Next.Js](https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-48.png)
 ![HTML5](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-48.png)
 ![CSS3](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-48.png)
