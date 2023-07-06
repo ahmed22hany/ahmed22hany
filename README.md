@@ -19,6 +19,4 @@ skills and problem-solving abilities tohelp drive growth and success.
 
 ## Toolset
 
-[React package](https://github.com/icons-pack/react-simple-icons) <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/react-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" align=left width=24 height=24></picture>
-
-![alt text](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-24.png)
+![React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-32.png) <h3>React</h3>
