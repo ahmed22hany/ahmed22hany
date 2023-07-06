@@ -32,3 +32,6 @@ skills and problem-solving abilities tohelp drive growth and success.
 ![Responsive](https://cdn0.iconfinder.com/data/icons/website-design-4/467/Lcd_With_Tablet_and_mobile_icon-48.png)
 ![Typescript](https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/typescript-48.png)
 ![Redux](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-48.png)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmed22hany&theme=dark&hide_border=true&exclude_days=Fri)](https://git.io/streak-stats)
