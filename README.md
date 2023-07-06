@@ -21,4 +21,4 @@ skills and problem-solving abilities tohelp drive growth and success.
 
 ![React.Js](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-40.png)
 ![Next.Js](https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-40.png)
-![HTML](https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/40/HTML5.png)
+![HTML](https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/32/HTML5.png)
