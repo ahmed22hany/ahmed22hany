@@ -33,6 +33,6 @@ skills and problem-solving abilities tohelp drive growth and success.
 ![Typescript](https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/typescript-48.png)
 ![Redux](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-48.png)
 
-<p align='center'>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahmed22hany&theme=dark&hide_border=true&exclude_days=Fri)]
-</p>
+
