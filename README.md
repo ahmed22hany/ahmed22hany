@@ -19,4 +19,4 @@ skills and problem-solving abilities tohelp drive growth and success.
 
 ## Toolset
 
-![React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-40.png) <span>React</span>
+![React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-40.png)<br><span>React</span>
