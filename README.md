@@ -25,3 +25,8 @@ skills and problem-solving abilities tohelp drive growth and success.
 ![CSS3](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-48.png)
 ![Tailwind](https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-48.png)
 ![Javascript](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-48.png)
+![Bootstrap](https://cdn3.iconfinder.com/data/icons/font-awesome-brands/576/bootstrap-48.png)
+![MongoDB](https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-48.png)
+![Githup](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-48.png)
+![Firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-48.png)
+![Responsive](https://cdn0.iconfinder.com/data/icons/website-design-4/467/Lcd_With_Tablet_and_mobile_icon-48.png)
