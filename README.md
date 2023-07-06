@@ -19,4 +19,4 @@ skills and problem-solving abilities tohelp drive growth and success.
 
 ## Toolset
 
-[Angular Module](https://github.com/avmaisak/ngx-simple-icons) <picture><source media="(prefers-color-scheme: colored)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/angular-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/angular.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/angular.svg" alt="Angular" align=left width=24 height=24></picture>
+[React package](https://github.com/icons-pack/react-simple-icons) <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/react-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" align=left width=24 height=24></picture>
