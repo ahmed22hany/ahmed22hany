@@ -23,4 +23,4 @@ skills and problem-solving abilities tohelp drive growth and success.
 ![Next.Js](https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-48.png)
 ![HTML5](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-48.png)
 ![CSS3](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-48.png)
-![Tailwind](https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-48.png)
+![Tailwind](https://cdn.iconfinder.com/stored_data/1138518/48/png?token=1688643550-SuP0OPjR%2FDkJNeYye8zqyeEQCzJPgNaOZ3Hi7kno2vc%3D)
