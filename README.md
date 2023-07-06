@@ -30,3 +30,5 @@ skills and problem-solving abilities tohelp drive growth and success.
 ![Githup](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-48.png)
 ![Firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-48.png)
 ![Responsive](https://cdn0.iconfinder.com/data/icons/website-design-4/467/Lcd_With_Tablet_and_mobile_icon-48.png)
+![Typescript](https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/typescript-48.png)
+![Redux](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-48.png)
