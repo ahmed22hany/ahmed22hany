@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Ahmed Hany
+# Hi I'm Ahmed 👋
 
 ## 😄 About Me
 
