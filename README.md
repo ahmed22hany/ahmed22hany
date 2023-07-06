@@ -1,5 +1,4 @@
 # Hi I'm Ahmed 👋
-
 ## 😄 About Me
 
 ✨ I'm an entry-level software engineer with a passion for computer science <br> 
