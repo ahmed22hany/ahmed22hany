@@ -37,5 +37,7 @@ skills and problem-solving abilities tohelp drive growth and success.
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmed22hany&theme=dark&hide_border=true&exclude_days=Fri)
 
 ## 🥇 Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed22hany&layout=donut-vertical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed22hany&layout=donut-vertical)
+
+
 
